@@ -11,5 +11,5 @@
 
 
 ### Tomei a liberdade de implantar esse desafio no Propio 'Notion', onde criei um documento mais oraganizado e prático para facilitar o processo:
-[Clique aqui!](https://www.notion.so/Beedoo-QA-Chalenge-dcce99c9e99d45c297b19a90bcf2d28d)
+[Clique aqui!](https://imminent-dish-f5a.notion.site/Beedoo-QA-Chalenge-dcce99c9e99d45c297b19a90bcf2d28d?pvs=4)
 
